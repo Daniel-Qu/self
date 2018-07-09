@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/list_test.dir/list_struct_sort.cpp.o  -o list_test -rdynamic 

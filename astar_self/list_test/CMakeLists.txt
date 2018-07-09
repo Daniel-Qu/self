@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 2.8)
+project(list_test)
+add_definitions(-std=c++11)
+set(EXECUTABLE_OUTPUT_PATH ${PROJECT_BINARY_DIR})
+set(DIR_SRC list_struct_sort.cpp)
+add_executable(list_test ${DIR_SRC})
